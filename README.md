@@ -18,6 +18,17 @@ from headless component libraries to disk cleaners and self-hosted sync.
 
 <br/>
 
+### What is cluion?
+
+**clue + ion** — a good tool works like a detective, drawing insight from the smallest clues;
+an ion is tiny yet charged, driving change far beyond its size.
+
+**Clue-driven insight · Ion-powered momentum**
+
+An open-source brand today — a studio tomorrow, built to carry open source, products, and community.
+
+<br/>
+
 [![GitHub followers](https://img.shields.io/github/followers/cluion?style=for-the-badge&logo=github&color=4f46e5&labelColor=1e1b4b)](https://github.com/cluion?tab=followers)
 [![Website](https://img.shields.io/badge/cluion.com-website-818cf8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1e1b4b)](https://cluion.com)
 [![Location](https://img.shields.io/badge/Taiwan-%F0%9F%8C%8F-4f46e5?style=for-the-badge&labelColor=1e1b4b)](https://github.com/cluion)
