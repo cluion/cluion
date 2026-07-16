@@ -5,6 +5,10 @@
       <stop offset="55%" stop-color="#4f46e5"/>
       <stop offset="100%" stop-color="#818cf8"/>
     </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#c7d2fe"/>
+    </linearGradient>
     <clipPath id="banner">
       <path d="M0,0 L1200,0 L1200,225 C1000,265 800,195 600,230 C400,265 200,195 0,235 Z"/>
     </clipPath>
@@ -186,6 +190,10 @@
     <animateTransform attributeName="transform" type="translate" values="0 0; -28.5 310" dur="15.1s" begin="-12.8s" repeatCount="indefinite"/>
   </circle>
   </g>
-  <text x="600" y="128" text-anchor="middle" font-size="64" font-weight="700" fill="#ffffff">Hugo</text>
-  <text x="600" y="172" text-anchor="middle" font-size="20" fill="#ffffff" opacity="0.85">Building open-source developer tools under cluion</text>
+  <text x="600" y="128" text-anchor="middle" font-size="64" font-weight="700" fill="url(#titleGrad)">Hugo
+    <animate attributeName="opacity" values="1;0.45;1" dur="4s" repeatCount="indefinite"/>
+  </text>
+  <text x="600" y="172" text-anchor="middle" font-size="20" fill="#e0e7ff">Building open-source developer tools under cluion
+    <animate attributeName="opacity" values="0.85;0.35;0.85" dur="4s" begin="0.6s" repeatCount="indefinite"/>
+  </text>
 </svg>
