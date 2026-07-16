@@ -1,31 +1,139 @@
-### Hi, I'm Hugo 👋
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4f46e5,100:818cf8&height=180&section=header&text=Hugo&fontSize=56&fontColor=ffffff&animation=twinkling&desc=Building%20open-source%20developer%20tools%20under%20cluion&descSize=18&descAlignY=75" width="100%" alt="Hugo" />
+
+### Headless UI libraries · CLI tools · Self-hosted apps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,go,rust,php,swift&theme=dark&perline=6" alt="Languages" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,react,nuxt,laravel,tauri,postgres&theme=dark&perline=6" alt="Frameworks and tools" />
+</p>
+
+<br/>
 
 I build open-source developer tools under [**cluion**](https://cluion.com) —
-headless UI libraries, CLI tools, and self-hosted apps.
+from headless component libraries to disk cleaners and self-hosted sync.
 
-#### Libraries
+<br/>
 
-| Project | Description |
-| --- | --- |
-| [**selkit**](https://github.com/cluion/selkit) | Headless, framework-agnostic select components for JavaScript, Vue, and React |
-| [**trellis**](https://github.com/cluion/trellis) | Modern headless datatable engine — plugin-based, full-stack ready |
-| [**verso-editor**](https://github.com/cluion/verso-editor) | Headless, extensible rich text editor built on ProseMirror |
-| [**sigil**](https://github.com/cluion/sigil) | Embeddable visual editor — CSP / Trusted Types compatible, zero-dependency core |
+[![GitHub followers](https://img.shields.io/github/followers/cluion?style=for-the-badge&logo=github&color=4f46e5&labelColor=1e1b4b)](https://github.com/cluion?tab=followers)
+[![Website](https://img.shields.io/badge/cluion.com-website-818cf8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1e1b4b)](https://cluion.com)
+[![Location](https://img.shields.io/badge/Taiwan-%F0%9F%8C%8F-4f46e5?style=for-the-badge&labelColor=1e1b4b)](https://github.com/cluion)
 
-#### Tools & Apps
+</div>
 
-| Project | Description |
-| --- | --- |
-| [**Mogura**](https://github.com/cluion/Mogura) | Interactive disk cleaner and analyzer for Linux — a single static binary |
-| [**obsync**](https://github.com/cluion/obsync) | Self-hosted real-time sync for Obsidian vaults — Go server, Rust client |
-| [**turing**](https://github.com/cluion/turing) | Modern captcha for the web — stateless tokens, CSP-safe |
-| [**loupedb**](https://github.com/cluion/loupedb) | Web-based multi-database manager built with Nuxt |
-| [**vigila**](https://github.com/cluion/vigila) | Security scan orchestration — SAST / SCA / secret scanning in one Go binary |
-| [**paq**](https://github.com/cluion/paq) | Unified CLI for querying installed packages across package managers |
-| [**zh-finder**](https://github.com/cluion/zh-finder) | CLI to find Chinese characters (Traditional / Simplified) in files |
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cluion&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+## Featured Projects
 
-**Stack** — TypeScript · Go · Rust · PHP · Swift
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🌐 [cluion.com](https://cluion.com) · 📫 ningyungame@gmail.com
+### [🦡 Mogura](https://github.com/cluion/Mogura)
+
+Interactive disk cleaner and analyzer for Linux —
+a single static binary with no dependencies
+
+<br/>
+
+[![Top language](https://img.shields.io/github/languages/top/cluion/Mogura?style=flat-square&labelColor=1e1b4b&color=4f46e5)](https://github.com/cluion/Mogura)
+[![Stars](https://img.shields.io/github/stars/cluion/Mogura?style=flat-square&labelColor=1e1b4b&color=4f46e5)](https://github.com/cluion/Mogura/stargazers)
+
+</td>
+<td width="50%" valign="top">
+
+### [🌿 trellis](https://github.com/cluion/trellis)
+
+Modern headless datatable engine —
+plugin-based, immutable state, full-stack ready
+
+<br/>
+
+[![Top language](https://img.shields.io/github/languages/top/cluion/trellis?style=flat-square&labelColor=1e1b4b&color=4f46e5)](https://github.com/cluion/trellis)
+[![Stars](https://img.shields.io/github/stars/cluion/trellis?style=flat-square&labelColor=1e1b4b&color=4f46e5)](https://github.com/cluion/trellis/stargazers)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [📝 verso-editor](https://github.com/cluion/verso-editor)
+
+Headless, extensible rich text editor built on ProseMirror —
+46 built-in extensions, bring your own UI
+
+<br/>
+
+[![Top language](https://img.shields.io/github/languages/top/cluion/verso-editor?style=flat-square&labelColor=1e1b4b&color=4f46e5)](https://github.com/cluion/verso-editor)
+[![Stars](https://img.shields.io/github/stars/cluion/verso-editor?style=flat-square&labelColor=1e1b4b&color=4f46e5)](https://github.com/cluion/verso-editor/stargazers)
+
+</td>
+<td width="50%" valign="top">
+
+### [🎛️ selkit](https://github.com/cluion/selkit)
+
+Headless, framework-agnostic select components
+for JavaScript, Vue, and React
+
+<br/>
+
+[![Top language](https://img.shields.io/github/languages/top/cluion/selkit?style=flat-square&labelColor=1e1b4b&color=4f46e5)](https://github.com/cluion/selkit)
+[![Stars](https://img.shields.io/github/stars/cluion/selkit?style=flat-square&labelColor=1e1b4b&color=4f46e5)](https://github.com/cluion/selkit/stargazers)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [🔄 obsync](https://github.com/cluion/obsync)
+
+Self-hosted real-time sync for Obsidian vaults —
+Go server, Rust client, WebSocket
+
+<br/>
+
+[![Top language](https://img.shields.io/github/languages/top/cluion/obsync?style=flat-square&labelColor=1e1b4b&color=4f46e5)](https://github.com/cluion/obsync)
+[![Stars](https://img.shields.io/github/stars/cluion/obsync?style=flat-square&labelColor=1e1b4b&color=4f46e5)](https://github.com/cluion/obsync/stargazers)
+
+</td>
+<td width="50%" valign="top">
+
+### [🤖 turing](https://github.com/cluion/turing)
+
+Modern captcha for the web —
+stateless tokens, CSP-safe, Laravel + JavaScript
+
+<br/>
+
+[![Top language](https://img.shields.io/github/languages/top/cluion/turing?style=flat-square&labelColor=1e1b4b&color=4f46e5)](https://github.com/cluion/turing)
+[![Stars](https://img.shields.io/github/stars/cluion/turing?style=flat-square&labelColor=1e1b4b&color=4f46e5)](https://github.com/cluion/turing/stargazers)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**More** — [sigil](https://github.com/cluion/sigil) · [loupedb](https://github.com/cluion/loupedb) · [vigila](https://github.com/cluion/vigila) · [paq](https://github.com/cluion/paq) · [zh-finder](https://github.com/cluion/zh-finder)
+
+</div>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cluion/cluion/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/cluion/cluion/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+<br/>
+
+📫 ningyungame@gmail.com
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4f46e5,100:818cf8&height=100&section=footer" width="100%" alt="" />
+
+</div>
