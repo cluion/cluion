@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4f46e5,100:818cf8&height=180&section=header&text=Hugo&fontSize=56&fontColor=ffffff&animation=twinkling&desc=Building%20open-source%20developer%20tools%20under%20cluion&descSize=18&descAlignY=75" width="100%" alt="Hugo" />
+<img src="assets/banner.svg" width="100%" alt="Hugo — Building open-source developer tools under cluion" />
 
 ### Headless UI libraries · CLI tools · Self-hosted apps
 
@@ -41,6 +41,7 @@ a single static binary with no dependencies
 
 [![Top language](https://img.shields.io/github/languages/top/cluion/Mogura?style=flat-square&labelColor=1e1b4b&color=4f46e5)](https://github.com/cluion/Mogura)
 [![Stars](https://img.shields.io/github/stars/cluion/Mogura?style=flat-square&labelColor=1e1b4b&color=4f46e5)](https://github.com/cluion/Mogura/stargazers)
+[![Release](https://img.shields.io/github/v/release/cluion/Mogura?style=flat-square&label=Release&labelColor=1e1b4b&color=818cf8)](https://github.com/cluion/Mogura/releases/latest)
 
 </td>
 <td width="50%" valign="top">
@@ -54,6 +55,7 @@ plugin-based, immutable state, full-stack ready
 
 [![Top language](https://img.shields.io/github/languages/top/cluion/trellis?style=flat-square&labelColor=1e1b4b&color=4f46e5)](https://github.com/cluion/trellis)
 [![Stars](https://img.shields.io/github/stars/cluion/trellis?style=flat-square&labelColor=1e1b4b&color=4f46e5)](https://github.com/cluion/trellis/stargazers)
+[![npm](https://img.shields.io/npm/v/@trellisjs/core?style=flat-square&label=npm&labelColor=1e1b4b&color=818cf8)](https://www.npmjs.com/package/@trellisjs/core)
 
 </td>
 </tr>
@@ -69,6 +71,7 @@ Headless, extensible rich text editor built on ProseMirror —
 
 [![Top language](https://img.shields.io/github/languages/top/cluion/verso-editor?style=flat-square&labelColor=1e1b4b&color=4f46e5)](https://github.com/cluion/verso-editor)
 [![Stars](https://img.shields.io/github/stars/cluion/verso-editor?style=flat-square&labelColor=1e1b4b&color=4f46e5)](https://github.com/cluion/verso-editor/stargazers)
+[![npm](https://img.shields.io/npm/v/@verso-editor/core?style=flat-square&label=npm&labelColor=1e1b4b&color=818cf8)](https://www.npmjs.com/package/@verso-editor/core)
 
 </td>
 <td width="50%" valign="top">
@@ -82,6 +85,7 @@ for JavaScript, Vue, and React
 
 [![Top language](https://img.shields.io/github/languages/top/cluion/selkit?style=flat-square&labelColor=1e1b4b&color=4f46e5)](https://github.com/cluion/selkit)
 [![Stars](https://img.shields.io/github/stars/cluion/selkit?style=flat-square&labelColor=1e1b4b&color=4f46e5)](https://github.com/cluion/selkit/stargazers)
+[![npm](https://img.shields.io/npm/v/@selkit/core?style=flat-square&label=npm&labelColor=1e1b4b&color=818cf8)](https://www.npmjs.com/package/@selkit/core)
 
 </td>
 </tr>
@@ -110,6 +114,7 @@ stateless tokens, CSP-safe, Laravel + JavaScript
 
 [![Top language](https://img.shields.io/github/languages/top/cluion/turing?style=flat-square&labelColor=1e1b4b&color=4f46e5)](https://github.com/cluion/turing)
 [![Stars](https://img.shields.io/github/stars/cluion/turing?style=flat-square&labelColor=1e1b4b&color=4f46e5)](https://github.com/cluion/turing/stargazers)
+[![Release](https://img.shields.io/github/v/release/cluion/turing?style=flat-square&label=Release&labelColor=1e1b4b&color=818cf8)](https://github.com/cluion/turing/releases/latest)
 
 </td>
 </tr>
